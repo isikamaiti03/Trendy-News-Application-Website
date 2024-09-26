@@ -1,5 +1,7 @@
-<h1>Trendy-News-Application-Website</h1>
-## Overview
+
+<h1 align="center">Trendy-News-Application-Website</h1>
+
+## Overview:-
 Trendy News is a React-based web application that allows users to search and browse the latest news articles across various categories. The application uses the News API to fetch live news data and display it in a user-friendly interface.
 
 ## Features:-
@@ -12,3 +14,4 @@ Trendy News is a React-based web application that allows users to search and bro
 - **React** : The core library used for building the UI.
 - **CSS** : Custom CSS for styling the components.
 - **News API** : The API used to fetch news articles. (API key: bcc1d8445e254e9cb1bce4a9c68f62ef)
+
