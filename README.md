@@ -1,5 +1,5 @@
 # Trendy-News-Application-Website
-##Overview
+## Overview
 Trendy News is a React-based web application that allows users to search and browse the latest news articles across various categories. The application uses the News API to fetch live news data and display it in a user-friendly interface.
 
 ## Features:-
